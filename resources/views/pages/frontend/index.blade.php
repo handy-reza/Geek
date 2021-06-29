@@ -79,7 +79,7 @@
                             terlepas dari perangkatnya. Metodologi Design Thinking dengan inti yang berpusat pada manusia
                             adalah panduan utama kami dalam merancang produk hebat.</span>
                     </div>
-                    <a href="{{ route('details', 'ui/ux-design') }}" class="stretched-link">
+                    <a href="{{ route('details', 'uiux-design') }}" class="stretched-link">
                         <!-- fake children -->
                     </a>
                 </div>
