@@ -63,9 +63,7 @@
                             Gunakan mobilitas aplikasi mobile untuk memperluas bisnis Anda ke area yang belum pernah Anda
                             jangkau sebelumnya.</span>
                     </div>
-                    <a href="{{ route('details', 'slug') }}" class="stretched-link">
-                        <!-- fake children -->
-                    </a>
+                  
                 </div>
                 <div class="relative col-span-9 row-span-1 md:col-span-2 md:row-span-2 card">
                     <div class="card-shadow rounded-xl">
@@ -79,9 +77,7 @@
                             terlepas dari perangkatnya. Metodologi Design Thinking dengan inti yang berpusat pada manusia
                             adalah panduan utama kami dalam merancang produk hebat.</span>
                     </div>
-                    <a href="{{ route('details', 'slug') }}" class="stretched-link">
-                        <!-- fake children -->
-                    </a>
+                
                 </div>
                 <div class="relative col-span-9 row-span-1 md:col-span-3 md:row-span-2 card">
                     <div class="card-shadow rounded-xl">
@@ -94,9 +90,7 @@
                         <span class="text-sm ml-12">Kami menyediakan lebih dari 999 software original berlisensi
                             resmi.</span>
                     </div>
-                    <a href="{{ route('details', 'slug') }}" class="stretched-link">
-                        <!-- fake children -->
-                    </a>
+              
                 </div>
                 <div class="relative col-span-9 row-span-1 md:col-span-4 card">
                     <div class="card-shadow rounded-xl">
