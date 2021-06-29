@@ -63,7 +63,7 @@
                             Gunakan mobilitas aplikasi mobile untuk memperluas bisnis Anda ke area yang belum pernah Anda
                             jangkau sebelumnya.</span>
                     </div>
-                    <a href="{{ route('details', 'slug') }}" class="stretched-link">
+                    <a href="{{ route('details', 'mobile-app') }}" class="stretched-link">
                         <!-- fake children -->
                     </a>
                 </div>
@@ -79,7 +79,7 @@
                             terlepas dari perangkatnya. Metodologi Design Thinking dengan inti yang berpusat pada manusia
                             adalah panduan utama kami dalam merancang produk hebat.</span>
                     </div>
-                    <a href="{{ route('details', 'slug') }}" class="stretched-link">
+                    <a href="{{ route('details', 'ui/ux-design') }}" class="stretched-link">
                         <!-- fake children -->
                     </a>
                 </div>
@@ -94,9 +94,6 @@
                         <span class="text-sm ml-12">Kami menyediakan lebih dari 999 software original berlisensi
                             resmi.</span>
                     </div>
-                    <a href="{{ route('details', 'slug') }}" class="stretched-link">
-                        <!-- fake children -->
-                    </a>
                 </div>
                 <div class="relative col-span-9 row-span-1 md:col-span-4 card">
                     <div class="card-shadow rounded-xl">
@@ -109,7 +106,7 @@
                             menjadi kebutuhan sehari-hari. Manfaatkan internet untuk mendorong pertumbuhan bisnis Anda
                             melalui aplikasi web.</span>
                     </div>
-                    <a href="{{ route('details', 'slug') }}" class="stretched-link">
+                    <a href="{{ route('details', 'web-app') }}" class="stretched-link">
                         <!-- fake children -->
                     </a>
                 </div>
