@@ -63,7 +63,7 @@
                             Gunakan mobilitas aplikasi mobile untuk memperluas bisnis Anda ke area yang belum pernah Anda
                             jangkau sebelumnya.</span>
                     </div>
-                    <a href="{{ route('details', 'slug') }}" class="stretched-link">
+                    <a href="{{ route('details', 'mobile-app') }}" class="stretched-link">
                         <!-- fake children -->
                     </a>
                 </div>
@@ -79,7 +79,7 @@
                             terlepas dari perangkatnya. Metodologi Design Thinking dengan inti yang berpusat pada manusia
                             adalah panduan utama kami dalam merancang produk hebat.</span>
                     </div>
-                    <a href="{{ route('details', 'slug') }}" class="stretched-link">
+                    <a href="{{ route('details', 'uiux-design') }}" class="stretched-link">
                         <!-- fake children -->
                     </a>
                 </div>
@@ -94,9 +94,6 @@
                         <span class="text-sm ml-12">Kami menyediakan lebih dari 999 software original berlisensi
                             resmi.</span>
                     </div>
-                    <a href="{{ route('details', 'slug') }}" class="stretched-link">
-                        <!-- fake children -->
-                    </a>
                 </div>
                 <div class="relative col-span-9 row-span-1 md:col-span-4 card">
                     <div class="card-shadow rounded-xl">
@@ -109,7 +106,7 @@
                             menjadi kebutuhan sehari-hari. Manfaatkan internet untuk mendorong pertumbuhan bisnis Anda
                             melalui aplikasi web.</span>
                     </div>
-                    <a href="{{ route('details', 'slug') }}" class="stretched-link">
+                    <a href="{{ route('details', 'web-app') }}" class="stretched-link">
                         <!-- fake children -->
                     </a>
                 </div>
@@ -123,8 +120,7 @@
         <div class="container mx-auto mb-4">
             <div class="flex justify-center text-center mb-4">
                 <h3 class="text-2xl capitalize font-semibold">
-                    Just Arrived <br class="" />this summer for you
-                </h3>
+                    Make your business   <br class="" /> more alive, order now !
             </div>
         </div>
         <div class="overflow-x-hidden px-4" id="carousel">

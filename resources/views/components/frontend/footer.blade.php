@@ -13,9 +13,6 @@
             <h5 class="text-lg font-semibold mb-2 relative">Overview</h5>
             <ul class="h-0 invisible md:h-auto md:visible overflow-hidden">
             <li>
-                <a href="#" class="hover:underline py-1 block">Shipping</a>
-            </li>
-            <li>
                 <a href="#" class="hover:underline py-1 block">Refund</a>
             </li>
             <li>
@@ -94,7 +91,7 @@
 <!-- START: FOOTER -->
 <footer class="flex text-center px-4 py-8 justify-center">
     <p class="text-sm">
-    Copyright 2021 • All Rights Reserved LuxSpace by BuildWith Angga
+    Copyright 2021 • All Rights Reserved geek solution by geek team
     </p>
 </footer>
 <!-- END: FOOTER -->
