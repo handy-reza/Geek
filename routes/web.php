@@ -53,8 +53,3 @@ Route::group(['middleware' => ['auth:sanctum', 'verified']], function () {
     });
 });
 
-Route::get('/clear', function () {
-       
-    Artisan::call('route:clear');
-    Artisan::call('storage:link', [] );
-});
